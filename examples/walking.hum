@@ -1,0 +1,7 @@
+robot H1
+
+stand
+
+walk forward 2m
+turn right 90deg
+walk forward 1m

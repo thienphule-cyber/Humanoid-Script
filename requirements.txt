@@ -1,0 +1,15 @@
+# Core numerical computing (used from Phase 5 onward: FK, IK, trajectories)
+numpy>=1.26
+
+# Robotics math: kinematics, transforms, DH parameters (Phase 5-6)
+roboticstoolbox-python>=1.1
+spatialmath-python>=1.1
+
+# Testing (used from Phase 1 onward)
+pytest>=8.0
+pytest-cov>=5.0
+
+# Code quality (optional but recommended across all phases)
+black>=24.0
+ruff>=0.5
+mypy>=1.10

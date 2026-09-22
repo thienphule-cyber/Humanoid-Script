@@ -1,0 +1,9 @@
+robot H1
+
+object bottle at (0.3, 0.1)
+
+stand
+
+reach right_hand to bottle
+grasp bottle
+release bottle

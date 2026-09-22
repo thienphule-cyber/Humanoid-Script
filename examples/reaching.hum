@@ -1,0 +1,7 @@
+robot H1
+
+object bottle at (0.3, 0.15)
+
+stand
+
+reach right_hand to bottle
